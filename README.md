@@ -164,6 +164,7 @@ This repository exists to document, track, and make sense of that shift.
 - [UCP GitHub Discussions](https://github.com/Universal-Commerce-Protocol/ucp/discussions)
 - [ACP GitHub Discussions](https://github.com/agentic-commerce-protocol/agentic-commerce-protocol/discussions)
 - [A2A GitHub Discussions](https://github.com/a2aproject/A2A/discussions)
+- [Agent Discovery Board](https://agent-discovery-board.onrender.com/guide)
 
 
 
